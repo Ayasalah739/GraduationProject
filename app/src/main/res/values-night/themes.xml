@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources xmlns:tools="http://schemas.android.com/tools">
+        <style name="Theme.GraduationProject" parent="Theme.Material3.DayNight.NoActionBar">
+            <item name="colorPrimary">@color/DarkBlueMainTitle</item>
+            <item name="colorPrimaryVariant">@color/LightBlueButtons</item>
+            <item name="colorSecondary">@color/MedBlueBtnOutlineAndParagraph</item>
+            <item name="colorBackground">@color/blackQ</item>
+            <item name="colorOnBackground">@color/BgAndOnBtnWhite</item>
+            <item name="colorSurface">@color/blackQ</item>
+            <item name="colorOnSurface">@color/BgAndOnBtnWhite</item>
+            <item name="colorError">@color/LightBlueButtons</item>
+            <item name="colorOnError">@color/BgAndOnBtnWhite</item>
+            <item name="colorOnPrimary">@color/BgAndOnBtnWhite</item>
+            <item name="colorOnSecondary">@color/BgAndOnBtnWhite</item>
+            <item name="android:statusBarColor">@color/blackQ</item>
+            <item name="your_stroke_color">@color/LightBlueButtons</item>
+        </style>
+    </resources>
+

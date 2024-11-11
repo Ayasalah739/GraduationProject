@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="DarkBlueMainTitle">#055B7F</color>
+    <color name="LightBlueButtons">#0DA1BD</color>
+    <color name="MedBlueBtnOutlineAndParagraph">#0E6A9F</color>
+    <color name="Circles">#4C88A1</color>
+    <color name="BgAndOnBtnWhite">#EEEEEE</color>
+    <color name="SmallWordsFPRSI">#297AA8</color>
+    <color name="blackQ">#80000000</color>
+    <color name="gray">#A4A4A4</color>
+    <color name="white">#FFFFFF</color>
+</resources>
